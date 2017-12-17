@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<FlowPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0"
+          prefWidth="920.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1"
+          fx:controller="com.leimly.studentims.controller.StudentIMSController">
+    <children>
+        <VBox prefHeight="60.0" prefWidth="920.0" style="-fx-background-color: #e6e6e6;">
+            <children>
+                <HBox prefHeight="30.0" prefWidth="820.0" style="-fx-border-color: #cccccc;">
+                    <children>
+                        <MenuBar prefHeight="30.0" prefWidth="109.0" style="-fx-background-color: #e6e6e6;">
+                            <menus>
+                                <Menu mnemonicParsing="false" text="用户管理(U)">
+                                    <items>
+                                        <MenuItem id="userManager" fx:id="userManager" mnemonicParsing="false"
+                                                  onAction="#setOnUserManager" text="用户管理"/>
+                                    </items>
+                                </Menu>
+                            </menus>
+                        </MenuBar>
+                        <MenuBar prefHeight="30.0" prefWidth="107.0" style="-fx-background-color: #e6e6e6;">
+                            <menus>
+                                <Menu mnemonicParsing="false" text="学生管理(S)">
+                                    <items>
+                                        <MenuItem id="studentManager" fx:id="studentManager" mnemonicParsing="false"
+                                                  onAction="#setOnStudentManager" text="学生管理"/>
+                                    </items>
+                                </Menu>
+                            </menus>
+                        </MenuBar>
+                        <MenuBar prefHeight="30.0" prefWidth="135.0" style="-fx-background-color: #e6e6e6;">
+                            <menus>
+                                <Menu mnemonicParsing="false" text="学生成绩管理(M)">
+                                    <items>
+                                        <MenuItem id="studentGradeEntry" fx:id="studentGradeEntry"
+                                                  mnemonicParsing="false" onAction="#setOnStudentGradeEntry"
+                                                  text="成绩录入"/>
+                                        <MenuItem id="studentGradeOperator" fx:id="studentGradeOperator"
+                                                  mnemonicParsing="false" onAction="#setOnStudentGradeOperator"
+                                                  text="成绩改查删"/>
+                                    </items>
+                                </Menu>
+                            </menus>
+                        </MenuBar>
+                        <MenuBar prefHeight="30.0" prefWidth="85.0" style="-fx-background-color: #e6e6e6;">
+                            <menus>
+                                <Menu mnemonicParsing="false" text="帮助(H)">
+                                    <items>
+                                        <MenuItem id="about" fx:id="about" mnemonicParsing="false"
+                                                  onAction="#setOnShowAboutIMS" text="关于"/>
+                                    </items>
+                                </Menu>
+                            </menus>
+                        </MenuBar>
+                        <MenuBar prefHeight="30.0" prefWidth="83.0" style="-fx-background-color: #e6e6e6;">
+                            <menus>
+                                <Menu mnemonicParsing="false" text="退出(Q)">
+                                    <items>
+                                        <MenuItem id="menuExit" fx:id="menuExit" mnemonicParsing="false"
+                                                  onAction="#setOnMenuExit" text="退出"/>
+                                    </items>
+                                </Menu>
+                            </menus>
+                        </MenuBar>
+                    </children>
+                </HBox>
+                <HBox prefHeight="97.0" prefWidth="518.0">
+                    <children>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true"/>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true"/>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true"/>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true"/>
+                    </children>
+                </HBox>
+            </children>
+        </VBox>
+    </children>
+</FlowPane>

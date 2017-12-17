@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<FlowPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0"
+          prefWidth="820.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1"
+          fx:controller="com.leimly.studentims.controller.StudentGradeEntryController">
+    <children>
+        <AnchorPane prefHeight="450.0" prefWidth="820.0">
+            <children>
+                <VBox prefHeight="118.0" prefWidth="820.0">
+                    <children>
+                        <AnchorPane prefHeight="118.0" prefWidth="695.0" style="-fx-border-color: #ffffff;">
+                            <children>
+                                <Label layoutX="71.0" layoutY="30.0" text="所在班级："/>
+                                <TextField fx:id="sclassTF" layoutX="138.0" layoutY="27.0"/>
+                                <Label layoutX="71.0" layoutY="79.0" text="考试类型："/>
+                                <TextField fx:id="typeTF" layoutX="138.0" layoutY="76.0"/>
+                                <Label layoutX="363.0" layoutY="30.0" text="时间段："/>
+                                <TextField fx:id="timeTF" layoutX="418.0" layoutY="27.0"/>
+                                <Button fx:id="enterBtn" layoutX="648.0" layoutY="28.0" mnemonicParsing="false"
+                                        onAction="#setOnEnterGrade" prefHeight="62.0" prefWidth="96.0" text="录入"/>
+                                <Label layoutX="363.0" layoutY="79.0" text="科   目："/>
+                                <TextField fx:id="subjectTF" layoutX="418.0" layoutY="76.0"/>
+                            </children>
+                        </AnchorPane>
+                    </children>
+                </VBox>
+                <AnchorPane layoutX="28.0" layoutY="126.0" prefHeight="274.0" prefWidth="702.0"
+                            style="-fx-background-color: #ffffff;">
+                    <children>
+                        <TableView fx:id="showGradeTV" layoutY="-1.0" prefHeight="276.0" prefWidth="763.0">
+                            <columns>
+                                <TableColumn prefWidth="75.0" text="序号"/>
+                                <TableColumn prefWidth="129.0" text="学号"/>
+                                <TableColumn prefWidth="140.0" text="姓名"/>
+                                <TableColumn prefWidth="136.0" text="科目"/>
+                                <TableColumn prefWidth="91.0" text="成绩"/>
+                                <TableColumn prefWidth="96.0" text="补考成绩"/>
+                                <TableColumn prefWidth="100.0" text="缺考标志"/>
+                            </columns>
+                        </TableView>
+                    </children>
+                </AnchorPane>
+                <Button layoutX="741.0" layoutY="410.0" mnemonicParsing="false" onAction="#setOnExit" prefHeight="26.0"
+                        prefWidth="65.0" text="退出"/>
+            </children>
+        </AnchorPane>
+    </children>
+</FlowPane>

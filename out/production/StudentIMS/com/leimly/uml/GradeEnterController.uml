@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.leimly.studentims.controller.GradeEnterController</OriginalElement>
+  <nodes>
+    <node x="222.22242826617787" y="262.0">com.leimly.studentims.jdbc.JDBCStudent</node>
+    <node x="408.3474282661778" y="262.0">javafx.fxml.Initializable</node>
+    <node x="1150.7536782661778" y="131.0">com.leimly.studentims.controller.StageController</node>
+    <node x="1833.107115384616" y="262.0">com.leimly.studentims.jdbc.JDBCUser</node>
+    <node x="329.09108974359026" y="433.0">com.leimly.studentims.controller.StudentMsgController</node>
+    <node x="1546.107115384616" y="433.0">com.leimly.studentims.controller.UserMngController</node>
+    <node x="1733.107115384616" y="433.0">com.leimly.studentims.controller.LoginController</node>
+    <node x="190.47242826617787" y="131.0">com.leimly.studentims.db.StudentDAO</node>
+    <node x="1100.7063751526252" y="433.0">com.leimly.studentims.controller.GradeEnterController</node>
+    <node x="807.7063751526251" y="433.0">com.leimly.studentims.controller.StudentGradeOperationController</node>
+    <node x="1373.633585164835" y="131.0">javafx.application.Application</node>
+    <node x="1305.7063751526252" y="433.0">com.leimly.studentims.controller.StudentIMSController</node>
+    <node x="1807.357115384616" y="131.0">com.leimly.studentims.db.UserDAO</node>
+    <node x="1100.2536782661778" y="262.0">com.leimly.studentims.impl.ControlledStage</node>
+    <node x="879.5661782661778" y="0.0">com.leimly.studentims.entity.Score</node>
+    <node x="0.0" y="509.0">com.leimly.studentims.id.UIMessage</node>
+    <node x="82.47242826617787" y="131.0">com.leimly.studentims.entity.Student</node>
+    <node x="1446.29753968254" y="262.0">com.leimly.studentims.Main</node>
+    <node x="606.688518009768" y="131.0">com.leimly.studentims.jdbc.JDBCScore</node>
+    <node x="79.76192307692361" y="433.0">com.leimly.studentims.controller.StudentMngController</node>
+    <node x="643.0974282661778" y="0.0">com.leimly.studentims.db.ScoreDAO</node>
+    <node x="152.0" y="509.0">com.leimly.studentims.id.StageFlag</node>
+    <node x="491.0974282661778" y="0.0">com.leimly.studentims.db.ConnectMysql</node>
+    <node x="1739.0294184981685" y="262.0">com.leimly.studentims.entity.User</node>
+    <node x="548.7063751526251" y="433.0">com.leimly.studentims.controller.StudentGradeEntryController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.StudentDAO">
+      <point x="-15.875" y="-15.5" />
+      <point x="269.8474282661779" y="242.0" />
+      <point x="250.47242826617787" y="242.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="-69.58333333333326" y="-15.5" />
+      <point x="1560.0237820512825" y="383.0" />
+      <point x="1219.6911782661778" y="383.0" />
+      <point x="45.9375" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCStudent">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.jdbc.JDBCScore">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.entity.User">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.entity.Score">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.entity.User">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.entity.Score">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="-56.799999999999955" y="-15.5" />
+      <point x="1747.3071153846158" y="363.0" />
+      <point x="1238.0661782661778" y="363.0" />
+      <point x="64.3125" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.jdbc.JDBCStudent">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="81.0" y="-15.5" />
+      <point x="504.59108974359026" y="393.0" />
+      <point x="1127.8161782661778" y="393.0" />
+      <point x="-45.9375" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StageController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.impl.ControlledStage" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.jdbc.JDBCUser">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.jdbc.JDBCScore">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="79.58333333333331" y="-15.5" />
+      <point x="254.84525641025687" y="383.0" />
+      <point x="1109.4411782661778" y="383.0" />
+      <point x="-64.3125" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="113.75" y="-15.5" />
+      <point x="1057.9563751526252" y="413.0" />
+      <point x="1164.5661782661778" y="413.0" />
+      <point x="-9.1875" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="102.42857142857156" y="-15.5" />
+      <point x="770.6349465811967" y="403.0" />
+      <point x="1146.1911782661778" y="403.0" />
+      <point x="-27.5625" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.entity.Student">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.jdbc.JDBCUser">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.entity.Student">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.entity.Score">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCScore">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.jdbc.JDBCStudent">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.entity.Student">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentMsgController" target="javafx.fxml.Initializable">
+      <point x="0.0" y="-15.5" />
+      <point x="423.59108974359026" y="353.0" />
+      <point x="462.3474282661778" y="353.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ScoreDAO">
+      <point x="0.0" y="-15.5" />
+      <point x="662.188518009768" y="81.0" />
+      <point x="695.0974282661778" y="81.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.jdbc.JDBCScore">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.UserDAO">
+      <point x="-25.75" y="-15.5" />
+      <point x="1858.857115384616" y="242.0" />
+      <point x="1855.357115384616" y="242.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.db.ConnectMysql">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.Main" target="javafx.application.Application">
+      <point x="21.666666666666686" y="-15.5" />
+      <point x="1500.4642063492065" y="192.0" />
+      <point x="1428.133585164835" y="192.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="-46.0" y="-15.5" />
+      <point x="1351.7063751526252" y="393.0" />
+      <point x="1201.3161782661778" y="393.0" />
+      <point x="27.5625" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.impl.ControlledStage">
+      <point x="-23.125000000000057" y="-15.5" />
+      <point x="1170.081375152625" y="413.0" />
+      <point x="1182.9411782661778" y="413.0" />
+      <point x="9.1875" y="15.5" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.entity.Score">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.Main" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.controller.StageController">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7790816326530613" x="592.6326129666011" y="304.9220694171578" />
+  <SelectedNodes>
+    <node>com.leimly.studentims.controller.GradeEnterController</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

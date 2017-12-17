@@ -1,0 +1,3447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GradeEnterController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/GradeEnterController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StageController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentGradeEntryController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentGradeEntryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1116">
+              <caret line="93" column="33" lean-forward="false" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.leimly.studentims.id.UIMessage" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.leimly.studentims.id.UIMessage">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.leimly.studentims.id.UIMessage</OriginalElement>
+              <nodes>
+                <node x="1057.5" y="272.0">com.leimly.studentims.jdbc.JDBCStudent</node>
+                <node x="0.0" y="539.0">com.leimly.studentims.id.UIMessage</node>
+                <node x="558.7322278911565" y="272.0">com.leimly.studentims.controller.StageController</node>
+                <node x="1098.7561379097094" y="81.0">com.leimly.studentims.entity.Student</node>
+                <node x="25.75" y="272.0">com.leimly.studentims.jdbc.JDBCUser</node>
+                <node x="574.0093692022263" y="463.0">com.leimly.studentims.Main</node>
+                <node x="1370.0322278911567" y="81.0">com.leimly.studentims.jdbc.JDBCScore</node>
+                <node x="659.0093692022263" y="463.0">com.leimly.studentims.controller.StudentMsgController</node>
+                <node x="21.009369202226253" y="463.0">com.leimly.studentims.controller.UserMngController</node>
+                <node x="868.0093692022263" y="463.0">com.leimly.studentims.controller.StudentMngController</node>
+                <node x="1373.5322278911567" y="0.0">com.leimly.studentims.db.ScoreDAO</node>
+                <node x="208.00936920222625" y="463.0">com.leimly.studentims.controller.LoginController</node>
+                <node x="152.0" y="539.0">com.leimly.studentims.id.StageFlag</node>
+                <node x="1225.5822278911567" y="81.0">com.leimly.studentims.db.StudentDAO</node>
+                <node x="1094.0718692022263" y="463.0">com.leimly.studentims.controller.GradeEnterController</node>
+                <node x="1138.5686379097094" y="0.0">com.leimly.studentims.db.ConnectMysql</node>
+                <node x="148.75" y="272.0">com.leimly.studentims.entity.User</node>
+                <node x="429.4322278911566" y="272.0">javafx.application.Application</node>
+                <node x="1558.0718692022263" y="463.0">com.leimly.studentims.controller.StudentGradeOperationController</node>
+                <node x="370.00936920222625" y="463.0">com.leimly.studentims.controller.StudentIMSController</node>
+                <node x="0.0" y="81.0">com.leimly.studentims.db.UserDAO</node>
+                <node x="622.0269712430427" y="81.0">com.leimly.studentims.impl.ControlledStage</node>
+                <node x="1299.0718692022263" y="463.0">com.leimly.studentims.controller.StudentGradeEntryController</node>
+                <node x="1633.5280071119357" y="0.0">com.leimly.studentims.entity.Score</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.controller.StageController">
+                  <point x="-69.375" y="-15.5" />
+                  <point x="1117.1968692022263" y="393.0" />
+                  <point x="666.7322278911565" y="393.0" />
+                  <point x="36.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="-59.75" y="-15.5" />
+                  <point x="1358.8218692022263" y="363.0" />
+                  <point x="874.0707792207791" y="363.0" />
+                  <point x="874.0707792207791" y="142.0" />
+                  <point x="748.9815166975882" y="142.0" />
+                  <point x="53.454545454545496" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.entity.Student">
+                  <point x="37.799999999999955" y="-15.5" />
+                  <point x="791.3093692022262" y="423.0" />
+                  <point x="885.0707792207791" y="423.0" />
+                  <point x="885.0707792207791" y="182.0" />
+                  <point x="1125.1561379097095" y="182.0" />
+                  <point x="-17.59999999999991" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.StudentDAO">
+                  <point x="15.875" y="-15.5" />
+                  <point x="1136.875" y="232.0" />
+                  <point x="1285.5822278911567" y="232.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.jdbc.JDBCUser">
+                  <point x="-56.80000000000001" y="-15.5" />
+                  <point x="222.2093692022263" y="383.0" />
+                  <point x="103.0" y="383.0" />
+                  <point x="25.75" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="33.39999999999998" y="-15.5" />
+                  <point x="137.90936920222623" y="413.0" />
+                  <point x="223.25" y="413.0" />
+                  <point x="223.25" y="202.0" />
+                  <point x="628.7087894248609" y="202.0" />
+                  <point x="-66.81818181818176" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.controller.StageController">
+                  <point x="-99.58333333333326" y="-15.5" />
+                  <point x="1318.988535868893" y="373.0" />
+                  <point x="681.1322278911566" y="373.0" />
+                  <point x="50.39999999999998" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCStudent">
+                  <point x="-19.916666666666742" y="-15.5" />
+                  <point x="1398.6552025355595" y="353.0" />
+                  <point x="1163.3333333333333" y="353.0" />
+                  <point x="42.33333333333326" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.entity.Student">
+                  <point x="0.0" y="-15.5" />
+                  <point x="963.5093692022263" y="413.0" />
+                  <point x="1023.9375" y="413.0" />
+                  <point x="1023.9375" y="192.0" />
+                  <point x="1142.7561379097094" y="192.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.jdbc.JDBCScore">
+                  <point x="0.0" y="-15.5" />
+                  <point x="1694.5718692022263" y="323.0" />
+                  <point x="1586.4030071119357" y="323.0" />
+                  <point x="1586.4030071119357" y="252.0" />
+                  <point x="1467.1572278911567" y="252.0" />
+                  <point x="41.625" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ConnectMysql">
+                  <point x="-37.0" y="-15.5" />
+                  <point x="1388.5322278911567" y="61.0" />
+                  <point x="1248.5686379097094" y="61.0" />
+                  <point x="44.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.entity.Score">
+                  <point x="59.75" y="-15.5" />
+                  <point x="1478.3218692022263" y="433.0" />
+                  <point x="1665.0280071119357" y="433.0" />
+                  <point x="1665.0280071119357" y="61.0" />
+                  <point x="1663.5280071119357" y="61.0" />
+                  <point x="-6.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.entity.User">
+                  <point x="-28.400000000000006" y="-15.5" />
+                  <point x="250.60936920222628" y="373.0" />
+                  <point x="188.75" y="373.0" />
+                  <point x="8.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCScore">
+                  <point x="19.916666666666742" y="-15.5" />
+                  <point x="13.875" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.jdbc.JDBCStudent">
+                  <point x="75.60000000000002" y="-15.5" />
+                  <point x="829.1093692022263" y="433.0" />
+                  <point x="1078.6666666666667" y="433.0" />
+                  <point x="-42.33333333333326" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.entity.Student">
+                  <point x="-47.625" y="-15.5" />
+                  <point x="1073.375" y="212.0" />
+                  <point x="1177.9561379097095" y="212.0" />
+                  <point x="35.200000000000045" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.ConnectMysql">
+                  <point x="-15.875" y="-15.5" />
+                  <point x="1105.125" y="222.0" />
+                  <point x="1215.0822278911567" y="222.0" />
+                  <point x="1215.0822278911567" y="61.0" />
+                  <point x="1204.5686379097094" y="61.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.entity.Score">
+                  <point x="37.0" y="-15.5" />
+                  <point x="1462.5322278911567" y="51.0" />
+                  <point x="1639.5280071119357" y="51.0" />
+                  <point x="-30.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.ConnectMysql">
+                  <point x="25.75" y="-15.5" />
+                  <point x="103.0" y="252.0" />
+                  <point x="106.5" y="252.0" />
+                  <point x="106.5" y="61.0" />
+                  <point x="1160.5686379097094" y="61.0" />
+                  <point x="-44.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.controller.StageController">
+                  <point x="-109.20000000000005" y="-15.5" />
+                  <point x="1585.3718692022262" y="343.0" />
+                  <point x="695.5322278911567" y="343.0" />
+                  <point x="64.80000000000007" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.controller.StageController">
+                  <point x="-75.60000000000002" y="-15.5" />
+                  <point x="677.9093692022262" y="443.0" />
+                  <point x="637.9322278911566" y="443.0" />
+                  <point x="7.2000000000000455" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ScoreDAO">
+                  <point x="0.0" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.jdbc.JDBCScore">
+                  <point x="23.125" y="-15.5" />
+                  <point x="1209.6968692022263" y="413.0" />
+                  <point x="1286.25" y="413.0" />
+                  <point x="1286.25" y="252.0" />
+                  <point x="1411.6572278911567" y="252.0" />
+                  <point x="-13.875" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.entity.User">
+                  <point x="-1.4210854715202004E-14" y="-15.5" />
+                  <point x="104.50936920222625" y="403.0" />
+                  <point x="172.75" y="403.0" />
+                  <point x="-8.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.entity.Score">
+                  <point x="109.20000000000005" y="-15.5" />
+                  <point x="1803.7718692022263" y="443.0" />
+                  <point x="1770.2593692022263" y="443.0" />
+                  <point x="1770.2593692022263" y="51.0" />
+                  <point x="1699.5280071119357" y="51.0" />
+                  <point x="30.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="28.399999999999977" y="-15.5" />
+                  <point x="307.40936920222623" y="413.0" />
+                  <point x="285.50936920222625" y="413.0" />
+                  <point x="285.50936920222625" y="212.0" />
+                  <point x="642.0724257884972" y="212.0" />
+                  <point x="-53.454545454545496" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.jdbc.JDBCStudent">
+                  <point x="76.40000000000009" y="-15.5" />
+                  <point x="1039.9093692022263" y="443.0" />
+                  <point x="1121.0" y="443.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="-37.799999999999955" y="-15.5" />
+                  <point x="715.7093692022263" y="443.0" />
+                  <point x="726.5593692022262" y="443.0" />
+                  <point x="726.5593692022262" y="252.0" />
+                  <point x="708.8906076066789" y="252.0" />
+                  <point x="13.363636363636374" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StageController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="-48.0" y="-15.5" />
+                  <point x="582.7322278911565" y="232.0" />
+                  <point x="668.7996985157699" y="232.0" />
+                  <point x="-26.727272727272748" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.UserDAO">
+                  <point x="-25.75" y="-15.5" />
+                  <point x="51.5" y="252.0" />
+                  <point x="48.0" y="252.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.impl.ControlledStage" target="com.leimly.studentims.controller.StageController">
+                  <point x="0.0" y="15.5" />
+                  <point x="695.5269712430427" y="252.0" />
+                  <point x="678.7322278911565" y="252.0" />
+                  <point x="48.0" y="-15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.controller.StageController">
+                  <point x="56.80000000000001" y="-15.5" />
+                  <point x="335.8093692022262" y="433.0" />
+                  <point x="580.3322278911567" y="433.0" />
+                  <point x="-50.39999999999998" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.Main" target="javafx.application.Application">
+                  <point x="-21.66666666666663" y="-15.5" />
+                  <point x="584.8427025355596" y="413.0" />
+                  <point x="483.9322278911566" y="413.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="-46.0" y="-15.5" />
+                  <point x="416.00936920222625" y="222.0" />
+                  <point x="655.4360621521334" y="222.0" />
+                  <point x="-40.09090909090912" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.jdbc.JDBCUser">
+                  <point x="-66.80000000000001" y="-15.5" />
+                  <point x="37.7093692022263" y="443.0" />
+                  <point x="51.5" y="443.0" />
+                  <point x="-25.75" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.controller.StageController">
+                  <point x="66.80000000000001" y="-15.5" />
+                  <point x="171.3093692022262" y="423.0" />
+                  <point x="565.9322278911566" y="423.0" />
+                  <point x="-64.79999999999995" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="-23.125" y="-15.5" />
+                  <point x="1163.4468692022263" y="383.0" />
+                  <point x="863.0707792207791" y="383.0" />
+                  <point x="863.0707792207791" y="152.0" />
+                  <point x="735.6178803339517" y="152.0" />
+                  <point x="40.09090909090912" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.entity.Score">
+                  <point x="69.375" y="-15.5" />
+                  <point x="1255.9468692022263" y="423.0" />
+                  <point x="1641.5280071119357" y="423.0" />
+                  <point x="1641.5280071119357" y="61.0" />
+                  <point x="1651.5280071119357" y="61.0" />
+                  <point x="-18.0" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.jdbc.JDBCScore">
+                  <point x="47.625" y="-15.5" />
+                  <point x="1168.625" y="242.0" />
+                  <point x="1383.9072278911567" y="242.0" />
+                  <point x="-41.625" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.controller.StageController">
+                  <point x="-76.39999999999998" y="-15.5" />
+                  <point x="887.1093692022263" y="413.0" />
+                  <point x="652.3322278911567" y="413.0" />
+                  <point x="21.600000000000023" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.Main" target="com.leimly.studentims.controller.StageController">
+                  <point x="0.0" y="-15.5" />
+                  <point x="606.5093692022263" y="443.0" />
+                  <point x="609.1322278911566" y="443.0" />
+                  <point x="-21.600000000000023" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="-38.200000000000045" y="-15.5" />
+                  <point x="925.3093692022262" y="403.0" />
+                  <point x="838.1999999999998" y="403.0" />
+                  <point x="838.1999999999998" y="162.0" />
+                  <point x="722.2542439703154" y="162.0" />
+                  <point x="26.727272727272748" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.impl.ControlledStage">
+                  <point x="-54.59999999999991" y="-15.5" />
+                  <point x="1639.9718692022263" y="333.0" />
+                  <point x="1229.625" y="333.0" />
+                  <point x="1229.625" y="132.0" />
+                  <point x="762.3451530612244" y="132.0" />
+                  <point x="66.81818181818176" y="15.5" />
+                </edge>
+                <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.controller.StageController">
+                  <point x="46.0" y="-15.5" />
+                  <point x="508.00936920222625" y="443.0" />
+                  <point x="594.7322278911565" y="443.0" />
+                  <point x="-36.0" y="15.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.5070194384449244" x="916.0000000000001" y="285.0" />
+              <SelectedNodes>
+                <node>com.leimly.studentims.id.UIMessage</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentGradeOperationController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentGradeOperationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentIMSController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentIMSController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="docComment;class#StudentIMSController#0" expanded="false" />
+                <element signature="method#setOnStudentGradeEntry#0;class#StudentIMSController#0" expanded="false" />
+                <element signature="method#setOnShowAboutIMS#0;class#StudentIMSController#0" expanded="false" />
+                <element signature="method#setOnStudentGradeOperator#0;class#StudentIMSController#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentMngController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentMngController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="67" column="45" lean-forward="false" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentMsgController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentMsgController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="148" column="25" lean-forward="false" selection-start-line="148" selection-start-column="25" selection-end-line="148" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserMngController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/UserMngController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1182">
+              <caret line="106" column="35" lean-forward="false" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="35" />
+              <folding>
+                <element signature="docComment;class#UserMngController#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>fx:id</find>
+      <find>updateTableView</find>
+      <find>searchUser</find>
+      <find>searchU</find>
+      <find>conn.close();</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/StudentIMS.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/UserManager.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentManager.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/GradeOperation.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/MainStage.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/UIMessage.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentIMS.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/UserMng.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/Login.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/db/ConnectMysql.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentMsg.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/config/conn.ini" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentMng.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/entity/SStudent.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/entity/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/impl/ControlledStage.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentIMSController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentGradeEntry.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/GradeOperationController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/entity/Score.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/fxml/GradeEnter.fxml" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/StageFlag.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/id/StageFlag.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/id/UIMessage.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/StageController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/impl/ScoreADO.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/impl/ScoreDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/impl/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/JDBC/JDBCScore.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/GradeEnterController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/JDBC/JDBCUser.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/JDBC/JDBCStudent.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/impl/StudentDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/db/StudentDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/jdbc/JDBCStudent.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentGradeEntryController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/db/ScoreDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/jdbc/JDBCScore.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentMngController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentMsgController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentGradeOperationController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/db/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/jdbc/JDBCUser.java" />
+        <option value="$PROJECT_DIR$/src/com/leimly/studentims/controller/UserMngController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1342" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studentims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studentims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jdbc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studentims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studentims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="id" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studentims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studentims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StudentIMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leimly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="studentims" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/leimly/studentims/fxml" />
+      <recent name="$PROJECT_DIR$/src/com/leimly/studentims" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leimly.studentims" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/leimly/studentims/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="ConnectMysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leimly.studentims.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leimly.studentims.db.ConnectMysql" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StudentIMS" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StudentIMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StudentIMS" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StudentIMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="StudentIMS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StudentIMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StudentIMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StudentIMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StudentIMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StudentIMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leimly.studentims.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leimly.studentims.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="StudentIMS" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ConnectMysql" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.ConnectMysql" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1512028410886" duration="502000" />
+      <workItem from="1512028935447" duration="2493000" />
+      <workItem from="1512094095411" duration="9598000" />
+      <workItem from="1512480339939" duration="10000" />
+      <workItem from="1512480445029" duration="2573000" />
+      <workItem from="1512544552249" duration="10380000" />
+      <workItem from="1512571457496" duration="2598000" />
+      <workItem from="1512574075708" duration="72000" />
+      <workItem from="1512958492059" duration="290000" />
+      <workItem from="1512959588244" duration="9922000" />
+      <workItem from="1512998538818" duration="2592000" />
+      <workItem from="1513044032038" duration="19895000" />
+      <workItem from="1513150444449" duration="7792000" />
+      <workItem from="1513160657819" duration="10951000" />
+      <workItem from="1513257566106" duration="1456000" />
+      <workItem from="1513306463243" duration="10087000" />
+      <workItem from="1513329159206" duration="12388000" />
+      <workItem from="1513348478363" duration="4434000" />
+      <workItem from="1513352943323" duration="760000" />
+      <workItem from="1513425570184" duration="1264000" />
+      <workItem from="1513491789399" duration="10630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="121989000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1342" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32656515" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294753" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3316413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="23" y="265" width="1296" height="262" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27434313" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294753" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39527026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910448" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StudentIMS.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/MainStage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/UserMng.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="43" column="47" lean-forward="true" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/Login.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentIMS.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/mysql-connector-java-5.1.40-bin.jar!/com/mysql/jdbc/Driver.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/img/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/javafx-src.zip!/com/sun/javafx/event/BasicEventDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="130" column="13" lean-forward="false" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentMng.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="16" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/javafx-src.zip!/javafx/scene/control/TableView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1465" column="5" lean-forward="false" selection-start-line="1465" selection-start-column="5" selection-end-line="1465" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentMsg.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/entity/SStudent.java" />
+    <entry file="jar:///usr/local/java/src.zip!/java/sql/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentGradeOperation.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/StudentGradeEntry.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/javafx-src.zip!/com/sun/glass/ui/gtk/GtkApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/fxml/GradeEnter.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-StudentIMS">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-StudentIMS</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-StudentIMS</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="88.0" y="16.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">java</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">org</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">sun</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="183.0" y="188.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.leimly.studentims">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.leimly.studentims</OriginalElement>
+          <nodes>
+            <node x="" y="">com.leimly.studentims.db</node>
+            <node x="" y="">com.leimly.studentims.fxml</node>
+            <node x="" y="">com.leimly.studentims.img</node>
+            <node x="" y="">com.leimly.studentims.impl</node>
+            <node x="" y="">com.leimly.studentims.Main</node>
+            <node x="" y="">com.leimly.studentims.config</node>
+            <node x="" y="">com.leimly.studentims.entity</node>
+            <node x="" y="">com.leimly.studentims.id</node>
+            <node x="" y="">com.leimly.studentims.controller</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="170.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.leimly.studentims.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.leimly.studentims.Main</OriginalElement>
+          <nodes>
+            <node x="" y="">javafx.fxml.Initializable</node>
+            <node x="" y="">com.leimly.studentims.id.UIMessage</node>
+            <node x="" y="">com.leimly.studentims.entity.Student</node>
+            <node x="" y="">com.leimly.studentims.controller.StageController</node>
+            <node x="" y="">com.leimly.studentims.Main</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentMsgController</node>
+            <node x="" y="">com.leimly.studentims.controller.UserMngController</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentMngController</node>
+            <node x="" y="">com.leimly.studentims.id.StageFlag</node>
+            <node x="" y="">com.leimly.studentims.controller.LoginController</node>
+            <node x="" y="">com.leimly.studentims.controller.GradeEnterController</node>
+            <node x="" y="">com.leimly.studentims.db.ConnectMysql</node>
+            <node x="" y="">com.leimly.studentims.entity.User</node>
+            <node x="" y="">javafx.application.Application</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentGradeOperationController</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentIMSController</node>
+            <node x="" y="">com.leimly.studentims.impl.ControlledStage</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentGradeEntryController</node>
+            <node x="" y="">com.leimly.studentims.entity.Score</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.49738766980146293" x="947.0" y="305.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/entity/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/id/StageFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/id/UIMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/impl/ControlledStage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/config/conn.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/uml/Main.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.leimly.studentims.Main</OriginalElement>
+          <nodes>
+            <node x="128.66666666666663" y="121.0">javafx.fxml.Initializable</node>
+            <node x="0.0" y="428.0">com.leimly.studentims.id.UIMessage</node>
+            <node x="1057.0166666666667" y="0.0">com.leimly.studentims.controller.StageController</node>
+            <node x="330.4923717948718" y="121.0">com.leimly.studentims.entity.Student</node>
+            <node x="43.66666666666663" y="121.0">com.leimly.studentims.Main</node>
+            <node x="183.41666666666663" y="352.0">com.leimly.studentims.controller.StudentMsgController</node>
+            <node x="1360.4166666666665" y="352.0">com.leimly.studentims.controller.UserMngController</node>
+            <node x="392.41666666666663" y="352.0">com.leimly.studentims.controller.StudentMngController</node>
+            <node x="1547.4166666666665" y="352.0">com.leimly.studentims.controller.LoginController</node>
+            <node x="152.0" y="428.0">com.leimly.studentims.id.StageFlag</node>
+            <node x="1155.4166666666665" y="352.0">com.leimly.studentims.controller.GradeEnterController</node>
+            <node x="556.263121794872" y="121.0">com.leimly.studentims.db.ConnectMysql</node>
+            <node x="1523.6916666666666" y="121.0">com.leimly.studentims.entity.User</node>
+            <node x="0.0" y="0.0">javafx.application.Application</node>
+            <node x="862.4166666666666" y="352.0">com.leimly.studentims.controller.StudentGradeOperationController</node>
+            <node x="1709.4166666666665" y="352.0">com.leimly.studentims.controller.StudentIMSController</node>
+            <node x="1108.1281282051282" y="121.0">com.leimly.studentims.impl.ControlledStage</node>
+            <node x="603.4166666666666" y="352.0">com.leimly.studentims.controller.StudentGradeEntryController</node>
+            <node x="929.5604166666667" y="121.0">com.leimly.studentims.entity.Score</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.controller.StageController">
+              <point x="61.66666666666674" y="-15.5" />
+              <point x="1309.5833333333335" y="332.0" />
+              <point x="1320.903044871795" y="332.0" />
+              <point x="1320.903044871795" y="81.0" />
+              <point x="1162.247435897436" y="81.0" />
+              <point x="33.23076923076928" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="99.58333333333337" y="-15.5" />
+              <point x="822.5" y="322.0" />
+              <point x="1154.0656282051282" y="322.0" />
+              <point x="-27.5625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="47.25" y="-15.5" />
+              <point x="325.16666666666663" y="282.0" />
+              <point x="569.463121794872" y="282.0" />
+              <point x="-52.799999999999955" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.entity.Student">
+              <point x="-15.75" y="-15.5" />
+              <point x="262.16666666666663" y="262.0" />
+              <point x="339.29237179487177" y="262.0" />
+              <point x="-35.19999999999999" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="-109.20000000000005" y="-15.5" />
+              <point x="889.7166666666666" y="232.0" />
+              <point x="648.6631217948718" y="232.0" />
+              <point x="26.399999999999977" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="38.200000000000045" y="-15.5" />
+              <point x="526.1166666666667" y="292.0" />
+              <point x="595.8631217948719" y="292.0" />
+              <point x="-26.399999999999977" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-33.40000000000009" y="-15.5" />
+              <point x="1410.5166666666664" y="212.0" />
+              <point x="1209.1906282051282" y="212.0" />
+              <point x="27.5625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.controller.StageController">
+              <point x="-19.91666666666663" y="-15.5" />
+              <point x="703.0" y="292.0" />
+              <point x="721.3333333333334" y="292.0" />
+              <point x="721.3333333333334" y="91.0" />
+              <point x="1106.8628205128205" y="91.0" />
+              <point x="-22.15384615384619" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.entity.Student">
+              <point x="-76.39999999999998" y="-15.5" />
+              <point x="411.51666666666665" y="272.0" />
+              <point x="374.4923717948718" y="272.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.entity.Score">
+              <point x="19.91666666666663" y="-15.5" />
+              <point x="742.8333333333333" y="272.0" />
+              <point x="936.7604166666667" y="272.0" />
+              <point x="-28.799999999999955" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.entity.User">
+              <point x="-17.75" y="-15.5" />
+              <point x="1600.6666666666665" y="192.0" />
+              <point x="1563.6916666666666" y="192.0" />
+              <point x="8.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="-59.75" y="-15.5" />
+              <point x="663.1666666666666" y="242.0" />
+              <point x="622.263121794872" y="242.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.controller.StageController">
+              <point x="54.59999999999991" y="-15.5" />
+              <point x="1053.5166666666664" y="292.0" />
+              <point x="1043.6697115384616" y="292.0" />
+              <point x="1043.6697115384616" y="101.0" />
+              <point x="1117.9397435897436" y="101.0" />
+              <point x="-11.076923076923094" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.controller.StageController">
+              <point x="-47.25" y="-15.5" />
+              <point x="230.66666666666663" y="332.0" />
+              <point x="247.16666666666663" y="332.0" />
+              <point x="247.16666666666663" y="71.0" />
+              <point x="1084.7089743589743" y="71.0" />
+              <point x="-44.30769230769238" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="javafx.fxml.Initializable">
+              <point x="-78.75" y="-15.5" />
+              <point x="199.16666666666663" y="332.0" />
+              <point x="182.66666666666663" y="332.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.entity.User">
+              <point x="33.40000000000009" y="-15.5" />
+              <point x="1477.3166666666666" y="322.0" />
+              <point x="1531.6916666666666" y="322.0" />
+              <point x="-24.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.entity.Score">
+              <point x="-54.60000000000002" y="-15.5" />
+              <point x="944.3166666666666" y="292.0" />
+              <point x="965.5604166666667" y="292.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-53.25" y="-15.5" />
+              <point x="1565.1666666666665" y="202.0" />
+              <point x="1227.5656282051282" y="202.0" />
+              <point x="45.9375" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="78.75" y="-15.5" />
+              <point x="356.66666666666663" y="302.0" />
+              <point x="1117.3156282051282" y="302.0" />
+              <point x="-64.3125" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StageController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="11.076923076923094" y="15.5" />
+              <point x="1140.0935897435897" y="101.0" />
+              <point x="1181.6281282051282" y="101.0" />
+              <point x="0.0" y="-15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="-66.79999999999995" y="-15.5" />
+              <point x="1377.1166666666668" y="222.0" />
+              <point x="675.0631217948719" y="222.0" />
+              <point x="52.799999999999955" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.impl.ControlledStage" target="com.leimly.studentims.controller.StageController">
+              <point x="-49.0" y="-15.5" />
+              <point x="1132.6281282051282" y="101.0" />
+              <point x="1129.0166666666667" y="101.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.controller.StageController">
+              <point x="53.25" y="-15.5" />
+              <point x="1671.6666666666665" y="332.0" />
+              <point x="1680.2214551282052" y="332.0" />
+              <point x="1680.2214551282052" y="61.0" />
+              <point x="1184.4012820512821" y="61.0" />
+              <point x="55.38461538461547" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="javafx.application.Application">
+              <point x="-21.66666666666667" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-46.0" y="-15.5" />
+              <point x="1755.4166666666665" y="172.0" />
+              <point x="1245.9406282051282" y="172.0" />
+              <point x="64.3125" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="-15.5" />
+              <point x="1443.9166666666665" y="332.0" />
+              <point x="1460.0666666666666" y="332.0" />
+              <point x="1460.0666666666666" y="71.0" />
+              <point x="1173.324358974359" y="71.0" />
+              <point x="44.30769230769238" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.entity.Score">
+              <point x="-61.66666666666674" y="-15.5" />
+              <point x="1186.25" y="282.0" />
+              <point x="994.3604166666667" y="282.0" />
+              <point x="28.799999999999955" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="0.0" y="-15.5" />
+              <point x="1247.9166666666665" y="272.0" />
+              <point x="1190.8156282051282" y="272.0" />
+              <point x="9.1875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="-15.5" />
+              <point x="487.91666666666663" y="272.0" />
+              <point x="476.96666666666664" y="272.0" />
+              <point x="476.96666666666664" y="81.0" />
+              <point x="1095.7858974358974" y="81.0" />
+              <point x="-33.23076923076928" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.entity.Student">
+              <point x="-99.58333333333337" y="-15.5" />
+              <point x="623.3333333333333" y="252.0" />
+              <point x="409.69237179487186" y="252.0" />
+              <point x="35.19999999999999" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="com.leimly.studentims.controller.StageController">
+              <point x="21.66666666666667" y="-15.5" />
+              <point x="97.83333333333326" y="61.0" />
+              <point x="1073.6320512820512" y="61.0" />
+              <point x="-55.38461538461547" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="76.39999999999998" y="-15.5" />
+              <point x="564.3166666666666" y="312.0" />
+              <point x="1135.6906282051282" y="312.0" />
+              <point x="-45.9375" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="109.20000000000005" y="-15.5" />
+              <point x="1108.1166666666668" y="332.0" />
+              <point x="1172.4406282051282" y="332.0" />
+              <point x="-9.1875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.controller.StageController">
+              <point x="46.0" y="-15.5" />
+              <point x="1847.4166666666665" y="51.0" />
+              <point x="1195.478205128205" y="51.0" />
+              <point x="66.46153846153834" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.49059561128526646" x="947.0" y="230.26837060702877" />
+          <SelectedNodes>
+            <node>com.leimly.studentims.Main</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.leimly.studentims.entity.User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.leimly.studentims.entity.User</OriginalElement>
+          <nodes>
+            <node x="" y="">javafx.fxml.Initializable</node>
+            <node x="" y="">com.leimly.studentims.id.UIMessage</node>
+            <node x="" y="">com.leimly.studentims.controller.StageController</node>
+            <node x="" y="">com.leimly.studentims.entity.Student</node>
+            <node x="" y="">com.leimly.studentims.Main</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentMsgController</node>
+            <node x="" y="">com.leimly.studentims.controller.UserMngController</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentMngController</node>
+            <node x="" y="">com.leimly.studentims.controller.LoginController</node>
+            <node x="" y="">com.leimly.studentims.id.StageFlag</node>
+            <node x="" y="">com.leimly.studentims.controller.GradeEnterController</node>
+            <node x="" y="">com.leimly.studentims.db.ConnectMysql</node>
+            <node x="" y="">com.leimly.studentims.entity.User</node>
+            <node x="" y="">com.leimly.studentims.JDBC.JDBCUser</node>
+            <node x="" y="">com.leimly.studentims.impl.StudentDAO</node>
+            <node x="" y="">javafx.application.Application</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentGradeOperationController</node>
+            <node x="" y="">com.leimly.studentims.impl.ScoreDAO</node>
+            <node x="" y="">com.leimly.studentims.impl.UserDAO</node>
+            <node x="" y="">com.leimly.studentims.impl.ControlledStage</node>
+            <node x="" y="">com.leimly.studentims.controller.StudentGradeEntryController</node>
+            <node x="" y="">com.leimly.studentims.JDBC.JDBCScore</node>
+            <node x="" y="">com.leimly.studentims.entity.Score</node>
+            <node x="" y="">com.leimly.studentims.JDBC.JDBCStudent</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="631.4999999999999" y="250.49999999999994" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.leimly.studentims.controller.GradeEnterController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.leimly.studentims.controller.GradeEnterController</OriginalElement>
+          <nodes>
+            <node x="222.22242826617787" y="262.0">com.leimly.studentims.jdbc.JDBCStudent</node>
+            <node x="408.3474282661778" y="262.0">javafx.fxml.Initializable</node>
+            <node x="1150.7536782661778" y="131.0">com.leimly.studentims.controller.StageController</node>
+            <node x="1833.107115384616" y="262.0">com.leimly.studentims.jdbc.JDBCUser</node>
+            <node x="329.09108974359026" y="433.0">com.leimly.studentims.controller.StudentMsgController</node>
+            <node x="1546.107115384616" y="433.0">com.leimly.studentims.controller.UserMngController</node>
+            <node x="1733.107115384616" y="433.0">com.leimly.studentims.controller.LoginController</node>
+            <node x="190.47242826617787" y="131.0">com.leimly.studentims.db.StudentDAO</node>
+            <node x="1100.7063751526252" y="433.0">com.leimly.studentims.controller.GradeEnterController</node>
+            <node x="807.7063751526251" y="433.0">com.leimly.studentims.controller.StudentGradeOperationController</node>
+            <node x="1373.633585164835" y="131.0">javafx.application.Application</node>
+            <node x="1305.7063751526252" y="433.0">com.leimly.studentims.controller.StudentIMSController</node>
+            <node x="1807.357115384616" y="131.0">com.leimly.studentims.db.UserDAO</node>
+            <node x="1100.2536782661778" y="262.0">com.leimly.studentims.impl.ControlledStage</node>
+            <node x="879.5661782661778" y="0.0">com.leimly.studentims.entity.Score</node>
+            <node x="0.0" y="509.0">com.leimly.studentims.id.UIMessage</node>
+            <node x="82.47242826617787" y="131.0">com.leimly.studentims.entity.Student</node>
+            <node x="1446.29753968254" y="262.0">com.leimly.studentims.Main</node>
+            <node x="606.688518009768" y="131.0">com.leimly.studentims.jdbc.JDBCScore</node>
+            <node x="79.76192307692361" y="433.0">com.leimly.studentims.controller.StudentMngController</node>
+            <node x="643.0974282661778" y="0.0">com.leimly.studentims.db.ScoreDAO</node>
+            <node x="152.0" y="509.0">com.leimly.studentims.id.StageFlag</node>
+            <node x="491.0974282661778" y="0.0">com.leimly.studentims.db.ConnectMysql</node>
+            <node x="1739.0294184981685" y="262.0">com.leimly.studentims.entity.User</node>
+            <node x="548.7063751526251" y="433.0">com.leimly.studentims.controller.StudentGradeEntryController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.StudentDAO">
+              <point x="-15.875" y="-15.5" />
+              <point x="269.8474282661779" y="242.0" />
+              <point x="250.47242826617787" y="242.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-69.58333333333326" y="-15.5" />
+              <point x="1560.0237820512825" y="383.0" />
+              <point x="1219.6911782661778" y="383.0" />
+              <point x="45.9375" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.entity.User">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.entity.Score">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.entity.User">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.entity.Score">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-56.799999999999955" y="-15.5" />
+              <point x="1747.3071153846158" y="363.0" />
+              <point x="1238.0661782661778" y="363.0" />
+              <point x="64.3125" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="81.0" y="-15.5" />
+              <point x="504.59108974359026" y="393.0" />
+              <point x="1127.8161782661778" y="393.0" />
+              <point x="-45.9375" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StageController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.impl.ControlledStage" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.jdbc.JDBCUser">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="79.58333333333331" y="-15.5" />
+              <point x="254.84525641025687" y="383.0" />
+              <point x="1109.4411782661778" y="383.0" />
+              <point x="-64.3125" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="113.75" y="-15.5" />
+              <point x="1057.9563751526252" y="413.0" />
+              <point x="1164.5661782661778" y="413.0" />
+              <point x="-9.1875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="102.42857142857156" y="-15.5" />
+              <point x="770.6349465811967" y="403.0" />
+              <point x="1146.1911782661778" y="403.0" />
+              <point x="-27.5625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.entity.Student">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.jdbc.JDBCUser">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.entity.Student">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.entity.Score">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.entity.Student">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="javafx.fxml.Initializable">
+              <point x="0.0" y="-15.5" />
+              <point x="423.59108974359026" y="353.0" />
+              <point x="462.3474282661778" y="353.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ScoreDAO">
+              <point x="0.0" y="-15.5" />
+              <point x="662.188518009768" y="81.0" />
+              <point x="695.0974282661778" y="81.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.UserDAO">
+              <point x="-25.75" y="-15.5" />
+              <point x="1858.857115384616" y="242.0" />
+              <point x="1855.357115384616" y="242.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="javafx.application.Application">
+              <point x="21.666666666666686" y="-15.5" />
+              <point x="1500.4642063492065" y="192.0" />
+              <point x="1428.133585164835" y="192.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-46.0" y="-15.5" />
+              <point x="1351.7063751526252" y="393.0" />
+              <point x="1201.3161782661778" y="393.0" />
+              <point x="27.5625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-23.125000000000057" y="-15.5" />
+              <point x="1170.081375152625" y="413.0" />
+              <point x="1182.9411782661778" y="413.0" />
+              <point x="9.1875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.entity.Score">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7790816326530613" x="298.0550098231827" y="396.0550098231827" />
+          <SelectedNodes>
+            <node>com.leimly.studentims.controller.GradeEnterController</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/jdbc/JDBCScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="159" column="45" lean-forward="false" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+          <folding>
+            <marker date="1513501754472" expanded="true" signature="607:685" ph="insert into score... " />
+            <marker date="1513501754472" expanded="true" signature="1733:1810" ph="UPDATE score... " />
+            <marker date="1513501754472" expanded="true" signature="2727:2773" ph="select * fro... score" />
+            <marker date="1513501754472" expanded="true" signature="3681:3739" ph="select * fro... score" />
+            <marker date="1513501754472" expanded="true" signature="4580:4608" ph="delete from " />
+            <marker date="1513501754472" expanded="true" signature="5381:5450" ph="select * fro... score" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding>
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/jdbc/JDBCStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="196" column="92" lean-forward="true" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="92" />
+          <folding>
+            <marker date="1513501612401" expanded="true" signature="729:774" ph="insert into student... " />
+            <marker date="1513501612401" expanded="true" signature="1951:1986" ph="select * fro... student" />
+            <marker date="1513501612401" expanded="true" signature="3382:3414" ph="delete from " />
+            <marker date="1513501612401" expanded="true" signature="3439:3469" ph="delete from " />
+            <marker date="1513501612401" expanded="true" signature="4566:4630" ph="select * fro... student" />
+            <marker date="1513501612401" expanded="true" signature="5919:5953" ph="select * fro... student" />
+            <marker date="1513501612401" expanded="true" signature="6753:6859" ph="UPDATE stude... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/db/ConnectMysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="98" column="51" lean-forward="false" selection-start-line="98" selection-start-column="51" selection-end-line="98" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/db/ScoreDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/db/StudentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/db/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/jdbc/JDBCUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="121" column="12" lean-forward="true" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1513502103659" expanded="true" signature="545:589" ph="select * fro... user" />
+            <marker date="1513502103659" expanded="true" signature="1433:1462" ph="delete from " />
+            <marker date="1513502103659" expanded="true" signature="2143:2173" ph="insert into user... " />
+            <marker date="1513502103659" expanded="true" signature="2998:3029" ph="select * fro... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentGradeOperationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentIMSController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#StudentIMSController#0" expanded="false" />
+            <element signature="method#setOnStudentGradeEntry#0;class#StudentIMSController#0" expanded="false" />
+            <element signature="method#setOnShowAboutIMS#0;class#StudentIMSController#0" expanded="false" />
+            <element signature="method#setOnStudentGradeOperator#0;class#StudentIMSController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentMngController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="67" column="45" lean-forward="false" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentMsgController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="148" column="25" lean-forward="false" selection-start-line="148" selection-start-column="25" selection-end-line="148" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/UserMngController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1182">
+          <caret line="106" column="35" lean-forward="false" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="35" />
+          <folding>
+            <element signature="docComment;class#UserMngController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/uml/GradeEnterController.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.leimly.studentims.controller.GradeEnterController</OriginalElement>
+          <nodes>
+            <node x="1015.5999999999999" y="212.0">com.leimly.studentims.jdbc.JDBCStudent</node>
+            <node x="0.0" y="489.0">javafx.fxml.Initializable</node>
+            <node x="470.70070643642055" y="81.0">com.leimly.studentims.controller.StageController</node>
+            <node x="25.75" y="212.0">com.leimly.studentims.jdbc.JDBCUser</node>
+            <node x="838.6419021454733" y="413.0">com.leimly.studentims.controller.StudentMsgController</node>
+            <node x="74.64190214547341" y="413.0">com.leimly.studentims.controller.UserMngController</node>
+            <node x="261.6419021454734" y="413.0">com.leimly.studentims.controller.LoginController</node>
+            <node x="1054.35" y="81.0">com.leimly.studentims.db.StudentDAO</node>
+            <node x="1063.2044021454733" y="413.0">com.leimly.studentims.controller.GradeEnterController</node>
+            <node x="1268.2044021454733" y="413.0">com.leimly.studentims.controller.StudentGradeOperationController</node>
+            <node x="154.79166666666663" y="81.0">javafx.application.Application</node>
+            <node x="423.6419021454734" y="413.0">com.leimly.studentims.controller.StudentIMSController</node>
+            <node x="0.0" y="81.0">com.leimly.studentims.db.UserDAO</node>
+            <node x="503.42315214547335" y="212.0">com.leimly.studentims.impl.ControlledStage</node>
+            <node x="1670.658559000523" y="0.0">com.leimly.studentims.entity.Score</node>
+            <node x="153.0" y="489.0">com.leimly.studentims.id.UIMessage</node>
+            <node x="918.2558804290948" y="81.0">com.leimly.studentims.entity.Student</node>
+            <node x="232.75" y="212.0">com.leimly.studentims.Main</node>
+            <node x="1368.856845238095" y="81.0">com.leimly.studentims.jdbc.JDBCScore</node>
+            <node x="627.6419021454733" y="413.0">com.leimly.studentims.controller.StudentMngController</node>
+            <node x="1372.356845238095" y="0.0">com.leimly.studentims.db.ScoreDAO</node>
+            <node x="305.0" y="489.0">com.leimly.studentims.id.StageFlag</node>
+            <node x="950.7558804290948" y="0.0">com.leimly.studentims.db.ConnectMysql</node>
+            <node x="148.75" y="212.0">com.leimly.studentims.entity.User</node>
+            <node x="1561.2044021454735" y="413.0">com.leimly.studentims.controller.StudentGradeEntryController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.controller.StageController">
+              <point x="-23.125" y="-15.5" />
+              <point x="1132.5794021454733" y="323.0" />
+              <point x="751.7943452380949" y="323.0" />
+              <point x="751.7943452380949" y="162.0" />
+              <point x="587.0083987441128" y="162.0" />
+              <point x="44.307692307692264" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.StudentDAO">
+              <point x="15.875" y="-15.5" />
+              <point x="1094.975" y="192.0" />
+              <point x="1114.35" y="192.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="66.80000000000001" y="-15.5" />
+              <point x="224.94190214547336" y="383.0" />
+              <point x="512.6106521454733" y="383.0" />
+              <point x="-64.3125" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.controller.StageController">
+              <point x="-59.75" y="-15.5" />
+              <point x="1620.9544021454735" y="283.0" />
+              <point x="776.1499999999999" y="283.0" />
+              <point x="776.1499999999999" y="142.0" />
+              <point x="609.162244897959" y="142.0" />
+              <point x="66.46153846153845" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="-19.916666666666742" y="-15.5" />
+              <point x="1660.7877354788066" y="273.0" />
+              <point x="1121.4333333333332" y="273.0" />
+              <point x="42.33333333333326" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="0.0" y="-15.5" />
+              <point x="1404.7044021454733" y="192.0" />
+              <point x="1438.231845238095" y="192.0" />
+              <point x="13.875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.entity.User">
+              <point x="-28.399999999999977" y="-15.5" />
+              <point x="304.24190214547343" y="353.0" />
+              <point x="188.75" y="353.0" />
+              <point x="8.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="-15.875" y="-15.5" />
+              <point x="1063.225" y="192.0" />
+              <point x="1043.85" y="192.0" />
+              <point x="1043.85" y="61.0" />
+              <point x="1016.7558804290948" y="61.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.entity.Score">
+              <point x="37.0" y="-15.5" />
+              <point x="1461.356845238095" y="51.0" />
+              <point x="1676.658559000523" y="51.0" />
+              <point x="-30.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.controller.StageController">
+              <point x="-54.59999999999991" y="-15.5" />
+              <point x="1350.1044021454734" y="303.0" />
+              <point x="765.1499999999999" y="303.0" />
+              <point x="765.1499999999999" y="152.0" />
+              <point x="598.0853218210359" y="152.0" />
+              <point x="55.38461538461536" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.controller.StageController">
+              <point x="-37.799999999999955" y="-15.5" />
+              <point x="895.3419021454733" y="343.0" />
+              <point x="663.8919021454735" y="343.0" />
+              <point x="663.8919021454735" y="172.0" />
+              <point x="575.9314756671897" y="172.0" />
+              <point x="33.23076923076917" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.entity.User">
+              <point x="0.0" y="-15.5" />
+              <point x="158.1419021454734" y="393.0" />
+              <point x="172.75" y="393.0" />
+              <point x="-8.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.entity.Score">
+              <point x="54.59999999999991" y="-15.5" />
+              <point x="1459.3044021454732" y="383.0" />
+              <point x="1702.158559000523" y="383.0" />
+              <point x="1702.158559000523" y="61.0" />
+              <point x="1700.658559000523" y="61.0" />
+              <point x="-6.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="56.80000000000001" y="-15.5" />
+              <point x="389.44190214547336" y="393.0" />
+              <point x="530.9856521454733" y="393.0" />
+              <point x="-45.9375" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="76.39999999999998" y="-15.5" />
+              <point x="799.5419021454734" y="383.0" />
+              <point x="1036.7666666666667" y="383.0" />
+              <point x="-42.33333333333326" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-75.60000000000002" y="-15.5" />
+              <point x="857.5419021454734" y="353.0" />
+              <point x="586.1106521454733" y="353.0" />
+              <point x="9.1875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StageController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="11.076923076923094" y="15.5" />
+              <point x="553.7776295133436" y="192.0" />
+              <point x="576.9231521454733" y="192.0" />
+              <point x="0.0" y="-15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.impl.ControlledStage" target="com.leimly.studentims.controller.StageController">
+              <point x="-49.0" y="-15.5" />
+              <point x="527.9231521454733" y="192.0" />
+              <point x="542.7007064364205" y="192.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.controller.StageController">
+              <point x="28.399999999999977" y="-15.5" />
+              <point x="361.0419021454734" y="373.0" />
+              <point x="393.9231521454734" y="373.0" />
+              <point x="393.9231521454734" y="162.0" />
+              <point x="509.4699372056513" y="162.0" />
+              <point x="-33.230769230769226" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.jdbc.JDBCUser">
+              <point x="-66.80000000000001" y="-15.5" />
+              <point x="91.34190214547345" y="393.0" />
+              <point x="51.5" y="393.0" />
+              <point x="-25.75" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="47.625" y="-15.5" />
+              <point x="1126.725" y="172.0" />
+              <point x="1382.731845238095" y="172.0" />
+              <point x="-41.625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="-76.39999999999998" y="-15.5" />
+              <point x="646.7419021454734" y="373.0" />
+              <point x="492.92315214547335" y="373.0" />
+              <point x="492.92315214547335" y="182.0" />
+              <point x="531.6237833594975" y="182.0" />
+              <point x="-11.076923076923094" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-38.200000000000045" y="-15.5" />
+              <point x="684.9419021454733" y="363.0" />
+              <point x="567.7356521454733" y="363.0" />
+              <point x="-9.1875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-109.20000000000005" y="-15.5" />
+              <point x="1295.5044021454733" y="313.0" />
+              <point x="622.8606521454733" y="313.0" />
+              <point x="45.9375" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-99.58333333333326" y="-15.5" />
+              <point x="1581.12106881214" y="293.0" />
+              <point x="641.2356521454733" y="293.0" />
+              <point x="64.3125" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.entity.Student">
+              <point x="37.799999999999955" y="-15.5" />
+              <point x="970.9419021454733" y="373.0" />
+              <point x="1005.0999999999999" y="373.0" />
+              <point x="1005.0999999999999" y="182.0" />
+              <point x="979.8558804290947" y="182.0" />
+              <point x="17.600000000000023" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.jdbc.JDBCUser">
+              <point x="-56.80000000000001" y="-15.5" />
+              <point x="275.84190214547345" y="363.0" />
+              <point x="103.0" y="363.0" />
+              <point x="25.75" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.entity.Student">
+              <point x="38.200000000000045" y="-15.5" />
+              <point x="761.3419021454733" y="373.0" />
+              <point x="864.1183804290947" y="373.0" />
+              <point x="864.1183804290947" y="192.0" />
+              <point x="944.6558804290946" y="192.0" />
+              <point x="-17.600000000000023" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="-37.0" y="-15.5" />
+              <point x="1387.356845238095" y="61.0" />
+              <point x="1060.7558804290948" y="61.0" />
+              <point x="44.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.entity.Score">
+              <point x="99.58333333333326" y="-15.5" />
+              <point x="1780.2877354788066" y="393.0" />
+              <point x="1776.30856881214" y="393.0" />
+              <point x="1776.30856881214" y="51.0" />
+              <point x="1736.658559000523" y="51.0" />
+              <point x="30.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="19.916666666666742" y="-15.5" />
+              <point x="1700.62106881214" y="263.0" />
+              <point x="1623.533559000523" y="263.0" />
+              <point x="1623.533559000523" y="192.0" />
+              <point x="1465.981845238095" y="192.0" />
+              <point x="41.625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="75.60000000000002" y="-15.5" />
+              <point x="1008.7419021454734" y="393.0" />
+              <point x="1079.1" y="393.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.entity.Student">
+              <point x="-47.625" y="-15.5" />
+              <point x="1031.475" y="172.0" />
+              <point x="997.4558804290948" y="172.0" />
+              <point x="35.200000000000045" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="25.75" y="-15.5" />
+              <point x="103.0" y="192.0" />
+              <point x="106.5" y="192.0" />
+              <point x="106.5" y="61.0" />
+              <point x="972.7558804290948" y="61.0" />
+              <point x="-44.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ScoreDAO">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="23.125" y="-15.5" />
+              <point x="1178.8294021454733" y="363.0" />
+              <point x="1244.35" y="363.0" />
+              <point x="1244.35" y="182.0" />
+              <point x="1410.481845238095" y="182.0" />
+              <point x="-13.875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.UserDAO">
+              <point x="-25.75" y="-15.5" />
+              <point x="51.5" y="192.0" />
+              <point x="48.0" y="192.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="javafx.application.Application">
+              <point x="-21.666666666666686" y="-15.5" />
+              <point x="243.58333333333337" y="192.0" />
+              <point x="209.29166666666663" y="192.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="46.0" y="-15.5" />
+              <point x="561.6419021454734" y="393.0" />
+              <point x="549.3606521454733" y="393.0" />
+              <point x="-27.5625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="33.39999999999998" y="-15.5" />
+              <point x="191.5419021454734" y="373.0" />
+              <point x="308.25" y="373.0" />
+              <point x="308.25" y="152.0" />
+              <point x="498.3930141287282" y="152.0" />
+              <point x="-44.30769230769232" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-69.375" y="-15.5" />
+              <point x="1086.3294021454733" y="333.0" />
+              <point x="604.4856521454733" y="333.0" />
+              <point x="27.5625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.entity.Score">
+              <point x="69.375" y="-15.5" />
+              <point x="1225.0794021454733" y="373.0" />
+              <point x="1678.658559000523" y="373.0" />
+              <point x="1678.658559000523" y="61.0" />
+              <point x="1688.658559000523" y="61.0" />
+              <point x="-18.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="-15.5" />
+              <point x="265.25" y="132.0" />
+              <point x="476.2391679748821" y="132.0" />
+              <point x="-66.46153846153845" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.controller.StageController">
+              <point x="-46.0" y="-15.5" />
+              <point x="469.6419021454734" y="373.0" />
+              <point x="481.92315214547335" y="373.0" />
+              <point x="481.92315214547335" y="172.0" />
+              <point x="520.5468602825744" y="172.0" />
+              <point x="-22.15384615384619" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5142387732749178" x="456.7092651757188" y="398.0681576144835" />
+          <SelectedNodes>
+            <node>javafx.fxml.Initializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/GradeEnterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leimly/studentims/controller/StudentGradeEntryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="93" column="33" lean-forward="false" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.leimly.studentims.id.UIMessage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.leimly.studentims.id.UIMessage</OriginalElement>
+          <nodes>
+            <node x="1057.5" y="272.0">com.leimly.studentims.jdbc.JDBCStudent</node>
+            <node x="0.0" y="539.0">com.leimly.studentims.id.UIMessage</node>
+            <node x="558.7322278911565" y="272.0">com.leimly.studentims.controller.StageController</node>
+            <node x="1098.7561379097094" y="81.0">com.leimly.studentims.entity.Student</node>
+            <node x="25.75" y="272.0">com.leimly.studentims.jdbc.JDBCUser</node>
+            <node x="574.0093692022263" y="463.0">com.leimly.studentims.Main</node>
+            <node x="1370.0322278911567" y="81.0">com.leimly.studentims.jdbc.JDBCScore</node>
+            <node x="659.0093692022263" y="463.0">com.leimly.studentims.controller.StudentMsgController</node>
+            <node x="21.009369202226253" y="463.0">com.leimly.studentims.controller.UserMngController</node>
+            <node x="868.0093692022263" y="463.0">com.leimly.studentims.controller.StudentMngController</node>
+            <node x="1373.5322278911567" y="0.0">com.leimly.studentims.db.ScoreDAO</node>
+            <node x="208.00936920222625" y="463.0">com.leimly.studentims.controller.LoginController</node>
+            <node x="152.0" y="539.0">com.leimly.studentims.id.StageFlag</node>
+            <node x="1225.5822278911567" y="81.0">com.leimly.studentims.db.StudentDAO</node>
+            <node x="1094.0718692022263" y="463.0">com.leimly.studentims.controller.GradeEnterController</node>
+            <node x="1138.5686379097094" y="0.0">com.leimly.studentims.db.ConnectMysql</node>
+            <node x="148.75" y="272.0">com.leimly.studentims.entity.User</node>
+            <node x="429.4322278911566" y="272.0">javafx.application.Application</node>
+            <node x="1558.0718692022263" y="463.0">com.leimly.studentims.controller.StudentGradeOperationController</node>
+            <node x="370.00936920222625" y="463.0">com.leimly.studentims.controller.StudentIMSController</node>
+            <node x="0.0" y="81.0">com.leimly.studentims.db.UserDAO</node>
+            <node x="622.0269712430427" y="81.0">com.leimly.studentims.impl.ControlledStage</node>
+            <node x="1299.0718692022263" y="463.0">com.leimly.studentims.controller.StudentGradeEntryController</node>
+            <node x="1633.5280071119357" y="0.0">com.leimly.studentims.entity.Score</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.controller.StageController">
+              <point x="-69.375" y="-15.5" />
+              <point x="1117.1968692022263" y="393.0" />
+              <point x="666.7322278911565" y="393.0" />
+              <point x="36.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-59.75" y="-15.5" />
+              <point x="1358.8218692022263" y="363.0" />
+              <point x="874.0707792207791" y="363.0" />
+              <point x="874.0707792207791" y="142.0" />
+              <point x="748.9815166975882" y="142.0" />
+              <point x="53.454545454545496" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.entity.Student">
+              <point x="37.799999999999955" y="-15.5" />
+              <point x="791.3093692022262" y="423.0" />
+              <point x="885.0707792207791" y="423.0" />
+              <point x="885.0707792207791" y="182.0" />
+              <point x="1125.1561379097095" y="182.0" />
+              <point x="-17.59999999999991" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.StudentDAO">
+              <point x="15.875" y="-15.5" />
+              <point x="1136.875" y="232.0" />
+              <point x="1285.5822278911567" y="232.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.jdbc.JDBCUser">
+              <point x="-56.80000000000001" y="-15.5" />
+              <point x="222.2093692022263" y="383.0" />
+              <point x="103.0" y="383.0" />
+              <point x="25.75" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="33.39999999999998" y="-15.5" />
+              <point x="137.90936920222623" y="413.0" />
+              <point x="223.25" y="413.0" />
+              <point x="223.25" y="202.0" />
+              <point x="628.7087894248609" y="202.0" />
+              <point x="-66.81818181818176" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.controller.StageController">
+              <point x="-99.58333333333326" y="-15.5" />
+              <point x="1318.988535868893" y="373.0" />
+              <point x="681.1322278911566" y="373.0" />
+              <point x="50.39999999999998" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="-19.916666666666742" y="-15.5" />
+              <point x="1398.6552025355595" y="353.0" />
+              <point x="1163.3333333333333" y="353.0" />
+              <point x="42.33333333333326" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.entity.Student">
+              <point x="0.0" y="-15.5" />
+              <point x="963.5093692022263" y="413.0" />
+              <point x="1023.9375" y="413.0" />
+              <point x="1023.9375" y="192.0" />
+              <point x="1142.7561379097094" y="192.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="0.0" y="-15.5" />
+              <point x="1694.5718692022263" y="323.0" />
+              <point x="1586.4030071119357" y="323.0" />
+              <point x="1586.4030071119357" y="252.0" />
+              <point x="1467.1572278911567" y="252.0" />
+              <point x="41.625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="-37.0" y="-15.5" />
+              <point x="1388.5322278911567" y="61.0" />
+              <point x="1248.5686379097094" y="61.0" />
+              <point x="44.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.entity.Score">
+              <point x="59.75" y="-15.5" />
+              <point x="1478.3218692022263" y="433.0" />
+              <point x="1665.0280071119357" y="433.0" />
+              <point x="1665.0280071119357" y="61.0" />
+              <point x="1663.5280071119357" y="61.0" />
+              <point x="-6.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.entity.User">
+              <point x="-28.400000000000006" y="-15.5" />
+              <point x="250.60936920222628" y="373.0" />
+              <point x="188.75" y="373.0" />
+              <point x="8.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeEntryController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="19.916666666666742" y="-15.5" />
+              <point x="13.875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="75.60000000000002" y="-15.5" />
+              <point x="829.1093692022263" y="433.0" />
+              <point x="1078.6666666666667" y="433.0" />
+              <point x="-42.33333333333326" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.entity.Student">
+              <point x="-47.625" y="-15.5" />
+              <point x="1073.375" y="212.0" />
+              <point x="1177.9561379097095" y="212.0" />
+              <point x="35.200000000000045" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="-15.875" y="-15.5" />
+              <point x="1105.125" y="222.0" />
+              <point x="1215.0822278911567" y="222.0" />
+              <point x="1215.0822278911567" y="61.0" />
+              <point x="1204.5686379097094" y="61.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.entity.Score">
+              <point x="37.0" y="-15.5" />
+              <point x="1462.5322278911567" y="51.0" />
+              <point x="1639.5280071119357" y="51.0" />
+              <point x="-30.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.ConnectMysql">
+              <point x="25.75" y="-15.5" />
+              <point x="103.0" y="252.0" />
+              <point x="106.5" y="252.0" />
+              <point x="106.5" y="61.0" />
+              <point x="1160.5686379097094" y="61.0" />
+              <point x="-44.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.controller.StageController">
+              <point x="-109.20000000000005" y="-15.5" />
+              <point x="1585.3718692022262" y="343.0" />
+              <point x="695.5322278911567" y="343.0" />
+              <point x="64.80000000000007" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.controller.StageController">
+              <point x="-75.60000000000002" y="-15.5" />
+              <point x="677.9093692022262" y="443.0" />
+              <point x="637.9322278911566" y="443.0" />
+              <point x="7.2000000000000455" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCScore" target="com.leimly.studentims.db.ScoreDAO">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="23.125" y="-15.5" />
+              <point x="1209.6968692022263" y="413.0" />
+              <point x="1286.25" y="413.0" />
+              <point x="1286.25" y="252.0" />
+              <point x="1411.6572278911567" y="252.0" />
+              <point x="-13.875" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.entity.User">
+              <point x="-1.4210854715202004E-14" y="-15.5" />
+              <point x="104.50936920222625" y="403.0" />
+              <point x="172.75" y="403.0" />
+              <point x="-8.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.entity.Score">
+              <point x="109.20000000000005" y="-15.5" />
+              <point x="1803.7718692022263" y="443.0" />
+              <point x="1770.2593692022263" y="443.0" />
+              <point x="1770.2593692022263" y="51.0" />
+              <point x="1699.5280071119357" y="51.0" />
+              <point x="30.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="28.399999999999977" y="-15.5" />
+              <point x="307.40936920222623" y="413.0" />
+              <point x="285.50936920222625" y="413.0" />
+              <point x="285.50936920222625" y="212.0" />
+              <point x="642.0724257884972" y="212.0" />
+              <point x="-53.454545454545496" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.jdbc.JDBCStudent">
+              <point x="76.40000000000009" y="-15.5" />
+              <point x="1039.9093692022263" y="443.0" />
+              <point x="1121.0" y="443.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMsgController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-37.799999999999955" y="-15.5" />
+              <point x="715.7093692022263" y="443.0" />
+              <point x="726.5593692022262" y="443.0" />
+              <point x="726.5593692022262" y="252.0" />
+              <point x="708.8906076066789" y="252.0" />
+              <point x="13.363636363636374" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StageController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-48.0" y="-15.5" />
+              <point x="582.7322278911565" y="232.0" />
+              <point x="668.7996985157699" y="232.0" />
+              <point x="-26.727272727272748" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCUser" target="com.leimly.studentims.db.UserDAO">
+              <point x="-25.75" y="-15.5" />
+              <point x="51.5" y="252.0" />
+              <point x="48.0" y="252.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.impl.ControlledStage" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="15.5" />
+              <point x="695.5269712430427" y="252.0" />
+              <point x="678.7322278911565" y="252.0" />
+              <point x="48.0" y="-15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.LoginController" target="com.leimly.studentims.controller.StageController">
+              <point x="56.80000000000001" y="-15.5" />
+              <point x="335.8093692022262" y="433.0" />
+              <point x="580.3322278911567" y="433.0" />
+              <point x="-50.39999999999998" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="javafx.application.Application">
+              <point x="-21.66666666666663" y="-15.5" />
+              <point x="584.8427025355596" y="413.0" />
+              <point x="483.9322278911566" y="413.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-46.0" y="-15.5" />
+              <point x="416.00936920222625" y="222.0" />
+              <point x="655.4360621521334" y="222.0" />
+              <point x="-40.09090909090912" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.jdbc.JDBCUser">
+              <point x="-66.80000000000001" y="-15.5" />
+              <point x="37.7093692022263" y="443.0" />
+              <point x="51.5" y="443.0" />
+              <point x="-25.75" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.UserMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="66.80000000000001" y="-15.5" />
+              <point x="171.3093692022262" y="423.0" />
+              <point x="565.9322278911566" y="423.0" />
+              <point x="-64.79999999999995" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-23.125" y="-15.5" />
+              <point x="1163.4468692022263" y="383.0" />
+              <point x="863.0707792207791" y="383.0" />
+              <point x="863.0707792207791" y="152.0" />
+              <point x="735.6178803339517" y="152.0" />
+              <point x="40.09090909090912" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.GradeEnterController" target="com.leimly.studentims.entity.Score">
+              <point x="69.375" y="-15.5" />
+              <point x="1255.9468692022263" y="423.0" />
+              <point x="1641.5280071119357" y="423.0" />
+              <point x="1641.5280071119357" y="61.0" />
+              <point x="1651.5280071119357" y="61.0" />
+              <point x="-18.0" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.jdbc.JDBCStudent" target="com.leimly.studentims.jdbc.JDBCScore">
+              <point x="47.625" y="-15.5" />
+              <point x="1168.625" y="242.0" />
+              <point x="1383.9072278911567" y="242.0" />
+              <point x="-41.625" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.controller.StageController">
+              <point x="-76.39999999999998" y="-15.5" />
+              <point x="887.1093692022263" y="413.0" />
+              <point x="652.3322278911567" y="413.0" />
+              <point x="21.600000000000023" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.Main" target="com.leimly.studentims.controller.StageController">
+              <point x="0.0" y="-15.5" />
+              <point x="606.5093692022263" y="443.0" />
+              <point x="609.1322278911566" y="443.0" />
+              <point x="-21.600000000000023" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentMngController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-38.200000000000045" y="-15.5" />
+              <point x="925.3093692022262" y="403.0" />
+              <point x="838.1999999999998" y="403.0" />
+              <point x="838.1999999999998" y="162.0" />
+              <point x="722.2542439703154" y="162.0" />
+              <point x="26.727272727272748" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentGradeOperationController" target="com.leimly.studentims.impl.ControlledStage">
+              <point x="-54.59999999999991" y="-15.5" />
+              <point x="1639.9718692022263" y="333.0" />
+              <point x="1229.625" y="333.0" />
+              <point x="1229.625" y="132.0" />
+              <point x="762.3451530612244" y="132.0" />
+              <point x="66.81818181818176" y="15.5" />
+            </edge>
+            <edge source="com.leimly.studentims.controller.StudentIMSController" target="com.leimly.studentims.controller.StageController">
+              <point x="46.0" y="-15.5" />
+              <point x="508.00936920222625" y="443.0" />
+              <point x="594.7322278911565" y="443.0" />
+              <point x="-36.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5070194384449244" x="916.0000000000001" y="285.0" />
+          <SelectedNodes>
+            <node>com.leimly.studentims.id.UIMessage</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StudentIMS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.45-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
